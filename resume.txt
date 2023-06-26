@@ -12,3 +12,45 @@ PhoneNo:
 Email-Address:
 Expected-Sala:
 Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
+Name:
+Age:
+Address:
+PhoneNo:
+Email-Address:
+Expected-Sala:
+Current CTC: 
